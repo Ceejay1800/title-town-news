@@ -1,0 +1,25 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+header {
+	border: 1px solid red;
+}
+
+.container {
+	border: 1px solid blue;
+	margin:0 auto;
+	width: 1024px;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.main-nav {
+	display: flex;
+	
+}
